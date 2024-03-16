@@ -1,6 +1,6 @@
 ---
-layout: default
-title:  "Welcome to Jekyll!"
+layout: post
+title:  "Introduction to Robotics"
 date:   2024-03-16 16:34:45 +0100
 categories: jekyll update
 ---
