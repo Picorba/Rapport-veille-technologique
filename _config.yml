@@ -28,8 +28,7 @@ domain: Rapport-veille-technologique.github.io       # if you want to force HTTP
 url: https:/Rapport-veille-technologique.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /Rapport-veille-technologique/      # place folder name if the site is served in a subfolder
 
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  Picorba
 
 # Build settings
 theme: minima
@@ -55,4 +54,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-theme_color_scheme: dark
