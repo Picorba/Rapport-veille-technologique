@@ -1,10 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Introduction à l'apprentissage par renforcement profond"
 date:   2024-03-16 16:34:45 +0100
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Voici l'article sur l'introduction au reinforcement learning (RL) et au Deep Reinforcement Learning (DRL).<br>
+Cet article est destiné à poser les bases théoriques nécéssaires à la compréhension et l'utilisation de ces méthode d'apprentissage. Si vous êtes déjà familier avec ce type d'apprentissage vous pouvez directement passer à l'article suivant.
+![Schéma montrant le fonctionnement du RL](/assets/schema_rl.webp)
+https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-1-a-brief-introduction-a53a849771cf
 
 Jekyll requires blog post files to be named according to the following format:
 
