@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 Voici l'article sur l'introduction au reinforcement learning (RL) et au Deep Reinforcement Learning (DRL).<br>
 Cet article est destiné à poser les bases théoriques nécéssaires à la compréhension et l'utilisation de ces méthode d'apprentissage. Si vous êtes déjà familier avec ce type d'apprentissage vous pouvez directement passer à l'article suivant.<br>
-![Schéma montrant le fonctionnement du RLassets/schema_rl.webp)<br>
+![Schéma montrant le fonctionnement du RL](/assets/schema_rl.webp)<br>
 
 https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-1-a-brief-introduction-a53a849771cf
 
