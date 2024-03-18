@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Exemples d'algos"
+title:  "Exemples d'applications du DRL"
 date:   2024-03-17 18:34:50 +0100
 categories: deep_rl
 ---
