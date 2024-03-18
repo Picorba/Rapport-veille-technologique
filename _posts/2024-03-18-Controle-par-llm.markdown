@@ -3,7 +3,6 @@ layout: post
 title:  "Controle by LLM"
 date:   2024-03-18 18:34:50 +0100
 categories: Robotics
-permalink: /applications/LLM/
 ---
 <link rel="stylesheet" href="https://picorba.github.io/Rapport-veille-technologique/assets/css/theme_dark.css">
 
