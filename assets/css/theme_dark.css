@@ -14,6 +14,15 @@ body {
     padding: 20px;
 }
 
+/* Couleur du texte pour le titre et les liens dans le header */
+header {
+    color: #fff; /* Texte blanc */
+}
+
+header a {
+    color: #fff; /* Liens blancs */
+}
+
 h1, h2, h3 {
     color: #fff; /* Texte blanc */
 }
