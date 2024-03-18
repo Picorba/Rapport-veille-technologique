@@ -5,7 +5,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #000; /* Fond noir */
-    color: #fff; /* Texte blanc */
+    color: #fff !important; /* Texte blanc */
 }
 
 .container {
@@ -14,17 +14,18 @@ body {
     padding: 20px;
 }
 
-/* Couleur du texte pour le titre et les liens dans le header */
+/* Sélection spécifique pour le header */
 header {
-    color: #fff; /* Texte blanc */
+    color: #fff !important; /* Texte blanc */
 }
 
+/* Sélection spécifique pour les liens dans le header */
 header a {
-    color: #fff; /* Liens blancs */
+    color: #fff !important; /* Liens blancs */
 }
 
 h1, h2, h3 {
-    color: #fff; /* Texte blanc */
+    color: #fff !important; /* Texte blanc */
 }
 
 h1 {
