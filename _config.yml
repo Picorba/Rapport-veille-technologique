@@ -31,7 +31,7 @@ baseurl: /Rapport-veille-technologique      # place folder name if the site is s
 github_username:  Picorba
 
 # Build settings
-theme: moonwalk
+theme: jekyll-theme-dark-minimal
 plugins:
   - jekyll-feed
 
