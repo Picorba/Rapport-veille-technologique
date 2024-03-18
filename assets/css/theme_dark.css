@@ -7,7 +7,7 @@ body {
     background-color: #121212 ; /* Fond noir */
     color: #eaeaea !important; /* Texte blanc */
 }
-.div.main{
+div.main{
     opacity: 0.83 !important;
 }
 .container {
