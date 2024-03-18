@@ -3,7 +3,7 @@ layout: page
 title: Méthode
 permalink: /methode/
 ---
-<link rel="stylesheet" href="https://picorba.github.io/Rapport-veille-technologique/assets/css/theme.css">
+<link rel="stylesheet" href="https://picorba.github.io/Rapport-veille-technologique/assets/css/theme_dark.css">
 # Méthode de Veille Technologique
 
 ## Introduction
