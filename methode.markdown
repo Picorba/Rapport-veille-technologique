@@ -6,9 +6,9 @@ permalink: /methode/
 <link rel="stylesheet" href="https://picorba.github.io/Rapport-veille-technologique/assets/css/theme_dark.css">
 
 ## Introduction
-
+<div class="texte">
 Bienvenue sur la page de présentation de ma méthode de veille technologique. En tant qu'étudiant passionné par les nouvelles technologies, j'ai développé une approche systématique pour rester à jour avec les dernières avancées dans le domaine.
-
+</div>
 ## Objectifs de la Veille Technologique
 
 La veille technologique vise à :
