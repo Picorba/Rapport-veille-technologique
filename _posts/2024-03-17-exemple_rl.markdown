@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Introduction to Robotics"
+title:  "Exemples d'algos"
 date:   2024-03-17 18:34:50 +0100
-categories: Robotics
+categories: deep_rl
 ---
 <link rel="stylesheet" href="https://picorba.github.io/Rapport-veille-technologique/assets/css/theme_dark.css">
 
