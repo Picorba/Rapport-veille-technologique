@@ -24,9 +24,11 @@ header {
 }
 div.trigger{
     text-align:center !important;
+    opacity: 0.83 !important;
 }
 nav.site-nav{
     text-align: center !important;
+    opacity: 0.83 !important;
 }
 /* Sélection spécifique pour les liens dans le header */
 header a {
