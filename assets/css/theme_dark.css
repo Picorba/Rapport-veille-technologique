@@ -22,7 +22,12 @@ body {
 header {
     color: #eaeaea !important; /* Texte blanc */
 }
-
+div.trigger{
+    text-align:center !important;
+}
+nav.site-nav{
+    text-align: center !important;
+}
 /* Sélection spécifique pour les liens dans le header */
 header a {
     color: #eaeaea !important; /* Liens blancs */
