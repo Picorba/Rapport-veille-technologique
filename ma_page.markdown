@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: main
 title: ma_page
 permalink: /ma_page/
 ---
