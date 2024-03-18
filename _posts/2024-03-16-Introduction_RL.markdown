@@ -4,7 +4,6 @@ title:  "Introduction à l'apprentissage par renforcement profond"
 date:   2024-03-16 16:34:45 +0100
 categories: deep_rl
 ---
-<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/theme.css">
 Voici l'article sur l'introduction au reinforcement learning (RL) et au Deep Reinforcement Learning (DRL).<br>
 Cet article est destiné à poser les bases théoriques nécéssaires à la compréhension et l'utilisation de ces méthode d'apprentissage. Si vous êtes déjà familier avec ce type d'apprentissage vous pouvez directement passer à l'article suivant.<br>
 
