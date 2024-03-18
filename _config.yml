@@ -29,10 +29,11 @@ url: https://picorba.github.io/Rapport-veille-technologique
 baseurl: /Rapport-veille-technologique      # place folder name if the site is served in a subfolder
 
 github_username:  Picorba
-remote_theme: pages-themes/midnight@v0.2.0
+
+# Build settings
+theme: minima
 plugins:
-- jekyll-remote-theme
-- jekyll-feed
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
