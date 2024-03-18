@@ -4,6 +4,7 @@
 
 layout: page
 title: Accueil
+
 ---
 
 Bienvenue sur mon site ! Voici une brève description de mon site.
