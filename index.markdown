@@ -5,5 +5,5 @@
 layout: home
 title: Accueil
 ---
-<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/theme.css">
 Bienvenue sur mon site ! Voici une brève description de mon site.
