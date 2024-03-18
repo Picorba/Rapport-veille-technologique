@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Introduction à l'apprentissage par renforcement profond"
 date:   2024-03-16 16:34:45 +0100
 categories: deep_rl
