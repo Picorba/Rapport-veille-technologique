@@ -4,8 +4,8 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #000; /* Fond noir */
-    color: #fff !important; /* Texte blanc */
+    background-color: #303030 ; /* Fond noir */
+    color: #eaeaea !important; /* Texte blanc */
 }
 
 .container {
@@ -14,18 +14,22 @@ body {
     padding: 20px;
 }
 
+.page-link {
+    color: #eaeaea !important; /* Texte blanc */
+}
+
 /* Sélection spécifique pour le header */
 header {
-    color: #fff !important; /* Texte blanc */
+    color: #eaeaea !important; /* Texte blanc */
 }
 
 /* Sélection spécifique pour les liens dans le header */
 header a {
-    color: #fff !important; /* Liens blancs */
+    color: #eaeaea !important; /* Liens blancs */
 }
 
 h1, h2, h3 {
-    color: #fff !important; /* Texte blanc */
+    color: #eaeaea !important; /* Texte blanc */
 }
 
 h1 {
