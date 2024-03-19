@@ -53,3 +53,6 @@ Ma méthodologie de veille technologique comprend les étapes suivantes :
 ## Conclusion
 
 La veille technologique est un processus essentiel pour rester compétitif dans un monde en constante évolution. En suivant cette méthode et en utilisant les bons outils, je suis en mesure de rester informé sur les dernières avancées technologiques et d'adapter mes connaissances en conséquence.
+
+
+https://www.ros.org/

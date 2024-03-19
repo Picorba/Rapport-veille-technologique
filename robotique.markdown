@@ -9,8 +9,6 @@ permalink: /robotique/
 </div>
 [Un robot c'est quoi ?](/Rapport-veille-technologique/robotics/2024/03/17/Introduction.html)
 
-[Interet pour l'industrie](/Rapport-veille-technologique/robotics/2024/03/17/industrie.html)
-
 [L'intérèt de la simulation + outils fréquemment utilisés](/Rapport-veille-technologique/robotics/2024/03/17/simulation.html)
 
 [Ressources utiles](/Rapport-veille-technologique/robotics/2024/03/17/ressources.html)

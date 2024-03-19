@@ -6,26 +6,36 @@ categories: Robotics
 ---
 <link rel="stylesheet" href="https://picorba.github.io/Rapport-veille-technologique/assets/css/theme_dark.css">
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+# Introduction à la Robotique
 
-Jekyll requires blog post files to be named according to the following format:
+La robotique est un domaine passionnant et en constante évolution qui englobe la conception, la construction, la programmation et l'utilisation de robots. Les robots sont des systèmes autonomes ou semi-autonomes capables d'accomplir des tâches variées, allant de la manipulation d'objets à la navigation dans des environnements complexes.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+## Qu'est-ce qu'un Robot ?
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Un robot est généralement défini comme un système mécanique ou virtuel qui peut effectuer des tâches de manière autonome ou semi-autonome. Les robots peuvent prendre diverses formes et tailles, des bras robotiques industriels aux drones aériens en passant par les robots humanoïdes.
 
-Jekyll also offers powerful support for code snippets:
+## Domaines d'Application
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+La robotique trouve des applications dans de nombreux domaines, notamment :
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+- **Robotique Industrielle** : Utilisée dans les usines pour automatiser les processus de fabrication et d'assemblage.
+- **Robotique Médicale** : Pour les chirurgies assistées par robot, la réhabilitation et les soins aux patients.
+- **Robotique de Service** : Comme les robots domestiques, les robots de livraison et les robots d'assistance.
+- **Robotique Mobile** : Pour les robots autonomes, tels que les robots terrestres, marins et aériens.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+## Technologies Clés
+
+La robotique repose sur diverses technologies, telles que :
+
+- **Capteurs** : Pour percevoir l'environnement et collecter des données.
+- **Actionneurs** : Pour effectuer des mouvements et des actions physiques.
+- **Intelligence Artificielle** : Pour la planification, la prise de décision et l'apprentissage.
+- **Systèmes de Contrôle** : Pour coordonner les mouvements et les actions du robot.
+
+## Défis et Opportunités
+
+La robotique présente des défis uniques, tels que la sûreté, l'interaction homme-robot et l'éthique. Cependant, elle offre également d'innombrables opportunités pour améliorer notre vie quotidienne, accroître l'efficacité industrielle et explorer de nouveaux horizons technologiques.
+
+Que vous soyez un passionné de technologie, un professionnel de l'ingénierie ou simplement curieux, la robotique offre un terrain fertile pour l'innovation et la découverte.
+
+Explorez ce fascinant domaine et plongez dans le monde de la robotique !
