@@ -11,9 +11,9 @@ Il est assez contre intiutif d'imaginé du DRL dans un capteur. Selon le larouss
 
  ## Fonctionnement 
  
- <img src="https://picorba.github.io/Rapport-veille-technologique/assets/images/detection.jpg" alt="Fonctionnement détection"><br>
+ <img src="https://picorba.github.io/Rapport-veille-technologique/assets/images/detection.png" alt="Fonctionnement détection"><br>
 
- <img src="https://picorba.github.io/Rapport-veille-technologique/assets/images/tracking.jpg" alt="Fonctionnement tracking"><br>
+ <img src="https://picorba.github.io/Rapport-veille-technologique/assets/images/tracking.png" alt="Fonctionnement tracking"><br>
 Source :[ Deep Reinforcement Learning in Computer Vision:
 A Comprehensive Survey Ngan Le Vidhiwar Singh Rathour Kashu Yamazaki
 Khoa Luu Marios Savvides August 27, 2021 ](https://arxiv.org/abs/2108.11510)
