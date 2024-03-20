@@ -8,3 +8,6 @@ categories: Robotics
 <div class="texte">
 Voici une liste de ressources qui peuvent vous être utile pour vous lancer dans la robotique :
 </div>
+
+https://www.ptc.com/fr/industry-insights/digital-twin
+https://exactitudeconsultancy.com/fr/reports/21116/digital-twin-market/
