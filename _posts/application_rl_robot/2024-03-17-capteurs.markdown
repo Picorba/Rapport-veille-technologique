@@ -6,7 +6,14 @@ categories: applicationss
 ---
 <link rel="stylesheet" href="https://picorba.github.io/Rapport-veille-technologique/assets/css/theme_dark.css">
 
-En reprenant la décomposition d'un système robotique 
+Il est assez contre intiutif d'imaginé du DRL dans un capteur. Selon le larousse un capteur est : " un Organe qui élabore, à partir d'une grandeur physique, une autre grandeur physique, souvent de nature électrique, utilisable à des fins de mesure ou de commande ". Les caméras rentrent dans les capteurs et on utilise de l'apprentissage supervisée pour détecter des objets (ou segmenter ou traquer mais bref) dans l'image, mais il est tout à fait possible d'appliquer une méthode d'apprentissage par renforcement profond. 
 
 
-<img src="https://picorba.github.io/Rapport-veille-technologique/assets/images/pipeline_rbot.jpg" alt="Pipeline robot"><br>
+ ## Fonctionnement 
+ 
+ <img src="https://picorba.github.io/Rapport-veille-technologique/assets/images/detection.jpg" alt="Fonctionnement détection"><br>
+
+ <img src="https://picorba.github.io/Rapport-veille-technologique/assets/images/tracking.jpg" alt="Fonctionnement tracking"><br>
+Source :[ Deep Reinforcement Learning in Computer Vision:
+A Comprehensive Survey Ngan Le Vidhiwar Singh Rathour Kashu Yamazaki
+Khoa Luu Marios Savvides August 27, 2021 ](https://arxiv.org/abs/2108.11510)
