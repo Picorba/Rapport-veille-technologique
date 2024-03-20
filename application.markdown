@@ -5,7 +5,12 @@ permalink: /applications/
 ---
 <link rel="stylesheet" href="https://picorba.github.io/Rapport-veille-technologique/assets/css/theme_dark.css">
 <div class="texte">
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+En reprenant la décomposition d'un système robotique :
+
+<img src="https://picorba.github.io/Rapport-veille-technologique/assets/images/pipeline_rbot.jpg" alt="Pipeline robot"><br>
+
+On rend compte que il y a beaucoup de partie dans lesquelles on peut utilisé de l'IA et plus particulièrement du RL/DRL. C'est pour cela que je vais d'abord présenter chaque sous partie dans lesquelles ont peut appliquer le DRL (certaines plus pertinentes que d'autres) et ensuite je présenterai deux exemples de problèmatiques actuelles qui sont le controle de système multi-agents ainsi que l'utilisation des LLMs dans le milieu de la robotique.<br>
+
 </div>
 
 [DRL dans les capteurs](/Rapport-veille-technologique/applicationss/2024/03/17/capteurs.html)
