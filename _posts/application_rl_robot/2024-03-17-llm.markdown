@@ -10,14 +10,14 @@ En suivant un peu le monde de la tech récemment (et même sans le suivre) il es
  <img src="https://picorba.github.io/Rapport-veille-technologique/assets/images/mensonge.png" alt="Graphoque réussité des LLMs sur le benchmark SWE-bench"><br>
 
 
-Sans être sarcastique, il est indéniable que ces technologies peuvent être appliqués à la robotique et permettront une nouvelle manière d'interagir et de contrôler les robots. Une équipe de chercheur américains à réussi en 2023 à controler un robot avec un prompt pour chat GPT en entrée. Dans ce projet la tâche de ChatGpt était de faire la décomposition en sous tâches du prompt principale et ensuite de sélectionner les cartes de coûts et "affordance". Voici le schéma globale de fonctionnement du projet VoxPoser :
+Sans être sarcastique, il est indéniable que ces technologies peuvent être appliquées à la robotique et permettront une nouvelle manière d'interagir et de contrôler les robots. Une équipe de chercheur américains à réussi en 2023 à controler un robot avec un prompt pour chat GPT en entrée. Dans ce projet la tâche de ChatGpt était de faire la décomposition en sous tâches du prompt principale et ensuite de sélectionner les cartes de coûts et "affordance". Voici le schéma globale de fonctionnement du projet VoxPoser :
 <br>
  <img src="https://picorba.github.io/Rapport-veille-technologique/assets/images/voxposer.png" alt="Schéma de fonctionnement de Voxposer"><br>
 
 <br>
  La tâche demandé à ChatGPT ici est assez facile mais le fait d'utiliser un LLM permet de tirer de son intelligence et logique de raisonnement. Un des comportements émergent observé à la fin était qu'il était capable de faire preuve d'un peu de raisonnement comme comprendre le prompt "Met la table je suis gaucher" et ainsi d'inverser la fourchette et le couteau. <br>
 
-Si vous êtes interessé pour aller plus loin voici un [github](https://github.com/GT-RIPL/Awesome-LLM-Robotics) qui reprend plein de papiers de recherche sur les LLMs appliqués à la robotique.
+Si vous êtes interessé pour aller plus loin voici un <a href="https://github.com/GT-RIPL/Awesome-LLM-Robotics">github</a> qui reprend plein de papiers de recherche sur les LLMs appliqués à la robotique.
 
 
 Sources : 

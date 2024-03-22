@@ -28,7 +28,7 @@ Source : [Yosh sur youtube](https://www.youtube.com/@yoshtm)
 # Controle d'un ASV simple 
 
 <div class="texte">
-Ce papier de recherche est un peu moins intéréssant de par son support, mais ce qu'ils ont fait est impressionant. Beaucoup d'algorithmes que nous avons discuté jusqu'ici ne fonctionnait que en simulation, car une erreur dans la réalité peut vite coutait chère, il faut donc prendre beaucoup de précautions. Mais içi cette équipe de chercheurs à réussi à déployer un ASV (Autonomaus Surface Vessel, un bateau drone) simple et lui a appris à reproduire des trajectoires simples par du DRL. Il lui ont fait prendre en entrée le Yaw Pitch Roll du drone et il devait suivre une trajectoire précédemment calculé.<br>
+Ce papier de recherche est un peu moins intéréssant de par son support, mais ce qu'ils ont fait est impressionant. Beaucoup d'algorithmes que nous avons discuté jusqu'ici ne fonctionnait que en simulation, car une erreur dans la réalité peut vite coutait chère, il faut donc prendre beaucoup de précautions. Mais içi cette équipe de chercheurs à réussi à déployer un ASV (Autonomaus Surface Vessel, un bateau drone) simple et lui a appris à reproduire des trajectoires simples par du DRL. Il lui ont fait prendre en entrée le Yaw Pitch Roll du drone et il devait suivre une trajectoire précédemment calculée.<br>
 
  <img src="https://picorba.github.io/Rapport-veille-technologique/assets/images/asv.png" alt="ASV"><br>
 
