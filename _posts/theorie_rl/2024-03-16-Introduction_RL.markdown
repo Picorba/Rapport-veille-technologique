@@ -12,24 +12,9 @@ Cet article est destiné à poser les bases théoriques nécéssaires à la comp
 <img src="https://picorba.github.io/Rapport-veille-technologique/assets/images/schema_rl.jpg" alt="Schema sur le fonctionnement du RL"><br>
 https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-1-a-brief-introduction-a53a849771cf
 
-Jekyll requires blog post files to be named according to the following format:
+<br>
+L'apprentissage par renforcement est une méthode d'apprentissage en IA qui consiste à voir l'IA comme un agent qui va prendre des décisions (action) qui vont affecter son environnement qui lui transmettra à l'agent son nouvel état ainsi qu'une récompense (positive ou négative). L'agent décide de prendre une action selon une politique.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+<img src="https://picorba.github.io/Rapport-veille-technologique/assets/images/cartole.png" alt="CartPole de gym"><br>
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Cette image est une capture d'écran de l'environnement CartPole basique dans le RL car facilement utilisable avec python et gym. A chaque étape le robot décide de se déplacer à droite ou à gauche selon sa policy, et en fonction le bras tombe plus ou moins et sa nouvelle position est donné en observation à l'agent. Un exemple de récompense basique serait de donner à l'agent une récompense positive à chaque step ou il reste en vie. Nous allons voir dans l'article suivant un exemple d'algorithmes de Rl/DRL avec la Q Table et Deep Q table.
