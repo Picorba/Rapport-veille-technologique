@@ -28,6 +28,7 @@ En dehors de research gate mentionné, j'ai utilisé Youtube qui grâce à son f
 <br>
 
 <div class="text">
+
 [Steve Brunton](https://www.youtube.com/@Eigensteve) Cette chaîne est tenu par un professeur/chercheur qui parle principalement de Data-science et de mécanique des fluides. Il a peu fait de vidéos sur le DRL mais elle sont très intéréssantes et il a le mérite de très bien expliqué sur ses sujets.<br>
 
 [Yosh](https://www.youtube.com/@yoshtm) Cette chaine à fait très peu de vidéos et elles présente toutes l'évolution de son IA qui joue à trackmania. C'est intéressant de voir l'évolution et de comprendre l'évolution des inputs et des comportement émergent et des limites. <br>
