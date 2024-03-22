@@ -13,13 +13,13 @@ Afin de mener à bien cette veille technologique,  j'ai utilisé plusieurs outil
 
 ## Outils 
 
-<div class="text">
+<div class="texte">
 J'ai utilisé Zotero afin de sauvegarder les articles d'intérets et pour les ranger. J'ai mit en place des alertes google avec les mots "deep reinforcement learning" et "robotics deep reinforcement learning" mais les résultats proposé était souvent peu intéréssant. Z-Lib m'a permit de récupérer certains articlesdont je ne trouvais pas le pdf sur internet, mais Research Gate était ma source principale d'article scientifique sur le sujet. 
 </div>
 
 ## Sources d'information
 
-<div class="text">
+<div class="texte">
 En dehors de research gate mentionné, j'ai utilisé Youtube qui grâce à son format de vidéo m'a permit de m'informer sur le sujet lors de moment d'attente de la vie quotidienne (comme attendre le bus etc...), Reddit était intéréssant car il propose des subreddits assez précis mais il faut prendre les informations avec des pincettes car beaucoup de personnes sont aussi en recherche d'informations sur ces subreddits. Git hub m'a permit aussi de voir ce qu'il se faisait actuellement dans la communauté open-source, assez présente dans la robotique notamment grâce à ROS et Gazebo qui sont open source.
 </div>
 
