@@ -15,7 +15,9 @@ div.texte{
     margin: 0 auto;
     padding: 20px;
 }
-
+.p{
+    color : #EC681B !important;
+}
 .page-link {
     color: #eaeaea !important; /* Texte blanc */
 }
