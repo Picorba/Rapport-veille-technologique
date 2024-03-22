@@ -8,12 +8,12 @@ categories: Robotics
 
 # L'Intérêt de la Simulation en Robotique 
 
+<div class="text">
 La simulation permet de tester les algorithmes de contrôle, les trajectoires et les interactions robot-environnement dans des environnements virtuels, offrant ainsi une plateforme sûre et flexible pour l'expérimentation. De plus, elle facilite la formation des opérateurs et des utilisateurs des robots, améliorant ainsi leur efficacité et leur sécurité.
 
 De plus, on prévoit une expansion des "Digital Twins" dans l'industrie à l'avenir. Les "Digital Twins" sont des répliques numériques des systèmes qui permettront aux industriels de mieux comprendre et optimiser leurs processus. Ils faciliteront le développement de nouvelles fonctionnalités et l'identification de leur utilité, tout en réduisant les temps d'arrêt des systèmes. Cependant, le principal obstacle à cette technologie réside dans la montée en puissance des récentes cyberattaques. <br>
 
 Source : https://blog.3ds.com/fr/brands/delmia/quels-sont-les-avantages-de-la-simulation-robotique/
-
 </div>
 
 <img src="https://picorba.github.io/Rapport-veille-technologique/assets/images/digital_twin.png" alt="Evolution du marché des digitals twins"><br>
