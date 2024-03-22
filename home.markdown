@@ -10,7 +10,7 @@ Voici mon rapport de veille technologique. Vous trouverez sur les pages différe
 -Dans la partie applications se trouve l'explication des applications du deep reinforcement learning à la robotique <br>
 -Dans la page méthode se trouve la méthodologie utilisé pour faire cette veille technologique <br>
 -Dans la partie Robotique se trouve différent articles sur la robotique, principalement pour expliquer le domaine et les enjeux qui lui sont liés ainsi qu'une page de ressource utile lié à la robotique <br>
--Dans la partie Théorie RL/DRL se trouve plusieurs pages d'explication sur la théorie derrière le deep reinforcement learning, principalement les bases des algorithmes utilisés <br>
+-Dans la partie Théorie RL/DRL il y a une introduction au concept d'apprentissage par renforcement et d'apprentissage par renforcement profond <br>
 
 Pour coder ce site j'ai utilisé jekyll qui permet de faire des sites webs statiques de amnière simplifier et je le publie avec git-hub pages.
 </div>
