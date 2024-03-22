@@ -9,9 +9,11 @@ Nous avons vu jusqu'ici que des exemples d'agent seuls mais une des problèmatiq
 
  <img src="https://picorba.github.io/Rapport-veille-technologique/assets/images/swarm.png" alt="Différence essaim/centralisé"><br>
 
-On peut voir sur le schéma précédent les deux visions principales qui s'oppose dans ce domaine. Une est centralisé où chaque robot communique avec un cerveau mère qui prend les décisions et supervise les opératiosn. L'approche en essaim est plus récente et permet que chaque robot apprenne de son coté et partage ensuite ses connaissances avec les autres. On peut voir dans la vidéo ci dessous un essaim de drones qui explorent une foret inconnue et est capable de manoeuvrer dans cette foret sans crash, et ils partagent l'information de ce qu'il voit ce qu'il permet que même si une caméra est obstrué d'un drone que celui ci ne se crash pas.
+On peut voir sur le schéma précédent les deux visions principales qui s'oppose dans ce domaine. Une est centralisé où chaque robot communique avec un cerveau mère qui prend les décisions et supervise les opératiosn. L'approche en essaim est plus récente et permet que chaque robot apprenne de son coté et partage ensuite ses connaissances avec les autres. On peut voir dans la vidéo ci dessous un essaim de drones qui explorent une foret inconnue et est capable de manoeuvrer dans cette foret sans crash, et ils partagent l'information de ce qu'il voit ce qu'il permet que même si une caméra est obstrué d'un drone que celui ci peut se mouvoir sans soucis
 
-<video src="https://www.youtube.com/watch?v=P9ZbipO8vxM">Texte</video>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P9ZbipO8vxM" frameborder="0" allowfullscreen></iframe>
+
 Source : conférence d'alten en Informatique d'entreprises <br>
  Swarm Deep Reinforcement Learning for Robotic Manipulation 
 Xudong Zhua,, Fan Zhanga, Hui Lib  November 1-4, 2021 
