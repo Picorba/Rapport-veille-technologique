@@ -16,13 +16,14 @@ Dans cette partie nous allons voir comment une IA entrainée par DRL peut direct
 <iframe width="640" height="400" src="https://www.youtube.com/watch?v=kojH8a7BW04" frameborder="0" allowfullscreen></iframe>
 
 <br>
-Source : [Yosh sur youtube](https://www.youtube.com/@yoshtm)<br>
+Source : [Yosh sur youtube](https://www.youtube.com/@yoshtm)
+
 
 # Controle d'un ASV simple 
 
 Ce papier de recherche est un peu moins intéréssant de par son support, mais ce qu'il ont fait est impressionant. Beaucoup d'algorithmes que nous avons discuté jusqu'ici ne fonctionnait que en simulation, car une erreur dans la réalité peut vite coutait chère, il faut donc prendre beaucoup de précautions. Mais içi cette équipe de chercheurs à réussi à déployer un ASV (Autonomaus Surface Vessel, un bateau drone) simple et lui a appris à reproduire des trajectoires simples par du DRL. Il lui ont fait prendre en entrée le Yaw Pitch Roll du drone et il devait suivre une trajectoire précédemment calculé.<br>
 
- <img src="https://picorba.github.io/Rapport-veille-technologique/assets/images/dmp.png" alt="Graphique réussité des LLMs sur le benchmark SWE-bench"><br>
+ <img src="https://picorba.github.io/Rapport-veille-technologique/assets/images/asv.png" alt="ASV"><br>
 
 Source : Deep Reinforcement Learning Based Tracking Control of an
 Autonomous Surface Vessel in Natural Waters Wei Wang1,2,,
