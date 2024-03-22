@@ -6,14 +6,20 @@ categories: applicationss
 ---
 <link rel="stylesheet" href="https://picorba.github.io/Rapport-veille-technologique/assets/css/theme_dark.css">
 <div class="texte">
-Il est assez contre intiutif d'imaginé du DRL dans un capteur. Selon le larousse un capteur est : " un Organe qui élabore, à partir d'une grandeur physique, une autre grandeur physique, souvent de nature électrique, utilisable à des fins de mesure ou de commande ". Les caméras rentrent dans les capteurs et on utilise de l'apprentissage supervisée pour détecter des objets (ou segmenter ou traquer mais bref) dans l'image, mais il est tout à fait possible d'appliquer une méthode d'apprentissage par renforcement profond. 
+Il est assez contre intiutif d'imaginé du DRL dans un capteur. Selon le larousse un capteur est : " un organe qui élabore, à partir d'une grandeur physique, une autre grandeur physique, souvent de nature électrique, utilisable à des fins de mesure ou de commande ". Les caméras rentrent dans les capteurs et on utilise de l'apprentissage supervisée pour détecter des objets (ou segmenter ou traquer mais bref) dans l'image, mais il est tout à fait possible d'appliquer une méthode d'apprentissage par renforcement profond. Les deux méthodes des schémas ci dessous sont similaires, et l'approche est assez originale.
+<br>
 
-
- ## Fonctionnement 
- 
  <img src="https://picorba.github.io/Rapport-veille-technologique/assets/images/detection.png" alt="Fonctionnement détection"><br>
-
+<br>
  <img src="https://picorba.github.io/Rapport-veille-technologique/assets/images/tracking.png" alt="Fonctionnement tracking"><br>
+
+<br>
+
+Dans le premier la méthode est la suivante : une bounding box est présente sur une image, l'image est croppé autour de la bounding box et ensuite un CNN détecte les features à l'intérieur de celle ci et en se basant sur ça l'agent détermine si il doit déplacer ou agrandir la bounding box. Le processus est repété jusqu'à arrêt.
+<br>
+Dans le deuxième cas l'agent recoit en entrée la frame d'avant avec la bouding box et la frame d'après sans. Le CNN détecte les features et l'agent décidde d'où déplacer le bounding box.
+
+
 Source :[ Deep Reinforcement Learning in Computer Vision:
 A Comprehensive Survey Ngan Le Vidhiwar Singh Rathour Kashu Yamazaki
 Khoa Luu Marios Savvides August 27, 2021 ](https://arxiv.org/abs/2108.11510)
