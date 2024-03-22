@@ -26,9 +26,6 @@ En dehors de research gate mentionné, j'ai utilisé Youtube qui grâce à son f
 <br>
 
 ## Lien vers des chaines youtubes intéréssante 
-<br>
-
-
 
 [Steve Brunton](https://www.youtube.com/@Eigensteve)  <div class="texte"> Cette chaîne est tenu par un professeur/chercheur qui parle principalement de Data-science et de mécanique des fluides. Il a peu fait de vidéos sur le DRL mais elle sont très intéréssantes et il a le mérite de très bien expliqué sur ses sujets.
 </div><br><br>
