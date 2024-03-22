@@ -5,7 +5,7 @@ date:   2024-03-17 18:34:50 +0100
 categories: applicationss
 ---
 <link rel="stylesheet" href="https://picorba.github.io/Rapport-veille-technologique/assets/css/theme_dark.css">
-
+<div class="texte">
 En suivant un peu le monde de la tech récemment (et même sans le suivre) il est impossible d'être passer à coté de l'IA générative et du développement des LLMs que l'on cherche à utiliser à toutes les sauces (même si la soi disant IA révolutionnaire qui va remplacer les développeurs et que coder ne servira à rien a en fait 14% de réussite sur le benchmark de SWE-bench). <br>
  <img src="https://picorba.github.io/Rapport-veille-technologique/assets/images/mensonge.png" alt="Graphoque réussité des LLMs sur le benchmark SWE-bench"><br>
 
@@ -23,3 +23,4 @@ Si vous êtes interessé pour aller plus loin voici un [github](https://github.c
 Sources : 
 https://voxposer.github.io/
 https://generationia.flint.media/p/devin-vognition-labs-ia-code-agent-autonome
+</div>
