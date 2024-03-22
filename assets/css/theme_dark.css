@@ -15,7 +15,7 @@ div.texte{
     margin: 0 auto;
     padding: 20px;
 }
-.p{
+a{
     color : #EC681B !important;
 }
 .page-link {
@@ -57,11 +57,6 @@ h3 {
 
 p {
     line-height: 1.6;
-}
-
-a {
-    color: #007bff;
-    text-decoration: none;
 }
 
 a:hover {
