@@ -20,9 +20,7 @@ L'algorithme Q-Learning repose sur une fonction d'action-valeur appelée fonctio
 
 L'algorithme fonctionne de manière itérative, interagissant avec l'environnement à chaque étape. À chaque étape, l'agent choisit une action à partir de l'état actuel, généralement en utilisant une politique d'exploration/exploitation. Une fois l'action choisie, l'agent l'exécute et observe la récompense résultante ainsi que l'état suivant de l'environnement.
 <br><br>
-La mise à jour de la fonction Q se fait en utilisant l'équation de mise à jour Q-Learning. Cette équation prend en compte la récompense reçue, la valeur Q de l'état suivant, un taux d'apprentissage, et un facteur de remise. Le but içi n'est pas de rentrer dans les détails mathématique.
-<br><br>
-L'algorithme se répète jusqu'à ce que l'agent ait convergé vers une politique optimale ou qu'un critère d'arrêt spécifique soit atteint.
+La mise à jour de la fonction Q se fait en utilisant l'équation de mise à jour Q-Learning. Cette équation prend en compte la récompense reçue, la valeur Q de l'état suivant, un taux d'apprentissage, et un facteur de remise. Le but ici n'est pas de rentrer dans les détails mathématiques.
 <br><br>
 Q-Learning converge vers la politique optimale garantie dans des conditions spécifiques, notamment lorsque l'agent explore suffisamment l'espace d'états et d'actions. Des variantes de l'algorithme, telles que le Deep Q-Network (DQN), ont été développées pour traiter des problèmes spécifiques et pour être appliquées à des environnements plus complexes.
 <br><br>
@@ -32,10 +30,8 @@ Q-Learning converge vers la politique optimale garantie dans des conditions spé
 
 <div class="texte">
 
-Deep Q-Learning est une fusion de deux approches en apprentissage par renforcement : les tables Q et les réseaux de neurones profonds (DQN). Les tables Q sont une méthode classique où chaque cellule de la table contient une valeur Q pour une paire état-action dans un environnement donné. <br>
-Cette méthode fonctionne bien pour les environnements avec un petit nombre d'états et d'actions discrets. D'autre part, les réseaux de neurones profonds sont utilisés pour approximer des fonctions complexes, telles que la fonction Q, dans des environnements où l'espace d'états ou d'actions est de grande taille ou continu.<br>
- Deep Q-Tables combine ces deux approches en utilisant un réseau de neurones profond pour approximer les valeurs Q stockées dans une table, permettant ainsi de gérer des environnements avec des espaces d'états/actions plus grands tout en exploitant les avantages de l'apprentissage profond pour généraliser sur des états similaires.
-
+La méthode Deep Q-Learning (DQN) est une technique d'apprentissage par renforcement qui combine l'apprentissage profond (deep learning) et l'algorithme Q-Learning. Dans cette approche, un réseau de neurones profond est utilisé pour apprendre la fonction de valeur d'action (action-value function), qui estime la récompense attendue pour une action donnée dans un état donné.
+<br> L'agent apprend en interagissant avec l'environnement et en mettant à jour les poids du réseau de neurones en utilisant la méthode de descente de gradient pour minimiser la différence entre la récompense prédite et la récompense réelle. Le DQN utilise également une technique appelée "replay memory" pour stocker et réutiliser les expériences passées de l'agent, ce qui améliore la stabilité et l'efficacité de l'apprentissage. 
 
 </div>
 
