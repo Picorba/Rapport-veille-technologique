@@ -17,7 +17,6 @@ La robotique est un domaine multidisciplinaire qui englobe la conception, la con
 ## Domaines d'Application
 <div class=texte>
 
-La robotique intervient dans une multitude de domaines, contribuant à transformer et à améliorer de nombreux aspects de notre vie quotidienne et de nos activités professionnelles. 
 <br>Dans le domaine industriel, les robots sont largement utilisés pour l'automatisation des processus de fabrication, notamment dans l'assemblage, la soudure, le levage de charges lourdes et la manipulation de produits délicats.
 <br> Dans le secteur de la santé, la robotique chirurgicale permet aux chirurgiens d'effectuer des interventions précises et moins invasives, réduisant ainsi les risques pour les patients et accélérant leur récupération.
 <br>  Les robots sont également déployés dans le domaine de la logistique et de la distribution pour le tri, l'emballage et le stockage des marchandises dans les entrepôts et les centres de distribution. Dans le domaine de l'exploration spatiale, les robots sont utilisés pour explorer des environnements hostiles et recueillir des données sur des planètes, des astéroïdes et des satellites.
