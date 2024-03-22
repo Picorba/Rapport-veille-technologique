@@ -22,3 +22,5 @@ La robotique est un domaine multidisciplinaire qui englobe la conception, la con
 <br>  Les robots sont également déployés dans le domaine de la logistique et de la distribution pour le tri, l'emballage et le stockage des marchandises dans les entrepôts et les centres de distribution. Dans le domaine de l'exploration spatiale, les robots sont utilisés pour explorer des environnements hostiles et recueillir des données sur des planètes, des astéroïdes et des satellites.
 <br>  De plus en plus, la robotique trouve également des applications dans les domaines de l'agriculture, de la construction, de la sécurité, de l'éducation, des services domestiques et de la divertissement, ouvrant ainsi de nouvelles perspectives pour l'innovation et le progrès technologique
 </div>
+
+[L'intérèt de la simulation + outils fréquemment utilisés](/Rapport-veille-technologique/robotics/2024/03/17/simulation.html)

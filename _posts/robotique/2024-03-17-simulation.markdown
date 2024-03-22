@@ -10,8 +10,8 @@ categories: Robotics
 
 <div class="text">
 La simulation permet de tester les algorithmes de contrôle, les trajectoires et les interactions robot-environnement dans des environnements virtuels, offrant ainsi une plateforme sûre et flexible pour l'expérimentation. De plus, elle facilite la formation des opérateurs et des utilisateurs des robots, améliorant ainsi leur efficacité et leur sécurité.
-
-De plus, on prévoit une expansion des "Digital Twins" dans l'industrie à l'avenir. Les "Digital Twins" sont des répliques numériques des systèmes qui permettront aux industriels de mieux comprendre et optimiser leurs processus. Ils faciliteront le développement de nouvelles fonctionnalités et l'identification de leur utilité, tout en réduisant les temps d'arrêt des systèmes. Cependant, le principal obstacle à cette technologie réside dans la montée en puissance des récentes cyberattaques. <br>
+<br>
+On prévoit une expansion des "Digital Twins" dans l'industrie à l'avenir. Les "Digital Twins" sont des répliques numériques des systèmes qui permettront aux industriels de mieux comprendre et optimiser leurs processus. Ils faciliteront le développement de nouvelles fonctionnalités et l'identification de leur utilité, tout en réduisant les temps d'arrêt des systèmes. Cependant, le principal obstacle à cette technologie réside dans la montée en puissance des récentes cyberattaques. <br>
 
 Source : https://blog.3ds.com/fr/brands/delmia/quels-sont-les-avantages-de-la-simulation-robotique/
 </div>
@@ -45,11 +45,11 @@ Certes, Unity est à la base un moteur de jeu vidéo multiplateforme, mais il pe
 
  <div class="text">
 Si vous êtes intéressés pour faire un projet, voici aussi d'autres logiciels de simulation qui sont utilisables pour simuler et entraîner des robots (certains avec ROS). Malheureusement, je ne connais pas les avantages et inconvénients de chacun, donc à vous de trouver celui qui conviendra à votre projet :
+<br>
+- Blender<br>
+- V-REP (CoppeliaSim maintenant)<br>
+- Unreal Engine<br>
 
-- Blender
-- V-REP (CoppeliaSim maintenant)
-- Unreal Engine
-
-Voici un [article](https://www.linkedin.com/advice/0/how-can-you-use-unity-blender-v-rep-ros-skills-ros) pour lier ROS avec Unity, Blender et V-REP.
+Voici <a href=" https://www.linkedin.com/advice/0/how-can-you-use-unity-blender-v-rep-ros-skills-ros"> un article</a> pour lier ROS avec Unity, Blender et V-REP.
 
 </div>
