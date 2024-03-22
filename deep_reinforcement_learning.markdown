@@ -13,5 +13,3 @@ permalink: /RL/
 [Algorithmes](https://picorba.github.io/Rapport-veille-technologique/deep_rl/2024/03/17/algo.html)
 
 [Exemples d'applications du Deep Reinforcement Learning](https://picorba.github.io/Rapport-veille-technologique/deep_rl/2024/03/17/exemple_rl.html)
-
-[Ressources pour aller plus loin](https://picorba.github.io/Rapport-veille-technologique/deep_rl/2024/03/17/ressources_rl.html)

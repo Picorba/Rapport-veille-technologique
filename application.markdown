@@ -17,15 +17,11 @@ On rend compte que il y a beaucoup de partie dans lesquelles on peut utilisé de
 
 [DRL dans les capteurs](/Rapport-veille-technologique/applicationss/2024/03/17/capteurs.html)
 
-[DRL pour la planifation de taches](/Rapport-veille-technologique/applicationss/2024/03/17/taches.html)
-
 [DRL pour la planifation de trajectoire](/Rapport-veille-technologique/applicationss/2024/03/17/trajectoire.html)
 
 [DRL pour le controle des actionneurs](/Rapport-veille-technologique/applicationss/2024/03/17/actionneurs.html)
 
 [DRL pour les systèmes multi-agents](/Rapport-veille-technologique/applicationss/2024/03/17/multiagent.html)
 
-
 [Utilisation des LLMs en robotique](/Rapport-veille-technologique/applicationss/2024/03/17/llm.html)
 
-[Ressources Utiles](/Rapport-veille-technologique/applicationss/2024/03/17/ressources_application.html)
