@@ -27,14 +27,14 @@ En dehors de research gate mentionné, j'ai utilisé Youtube qui grâce à son f
 ## Lien vers des chaines youtubes intéréssante 
 <br>
 
-<div class="text">
 
-[Steve Brunton](https://www.youtube.com/user/Eigensteve) Cette chaîne est tenu par un professeur/chercheur qui parle principalement de Data-science et de mécanique des fluides. Il a peu fait de vidéos sur le DRL mais elle sont très intéréssantes et il a le mérite de très bien expliqué sur ses sujets.<br><br>
 
-[Yosh](https://www.youtube.com/@yoshtm) Cette chaine à fait très peu de vidéos et elles présente toutes l'évolution de son IA qui joue à trackmania. C'est intéressant de voir l'évolution et de comprendre l'évolution des inputs et des comportement émergent et des limites. <br><br>
+[Steve Brunton](https://www.youtube.com/@Eigensteve) <div class="text"> Cette chaîne est tenu par un professeur/chercheur qui parle principalement de Data-science et de mécanique des fluides. Il a peu fait de vidéos sur le DRL mais elle sont très intéréssantes et il a le mérite de très bien expliqué sur ses sujets. </div><br><br>
 
-[Two minutes papers](https://www.youtube.com/@TwoMinutePapers) Cette chaîne présente les avancées sur les domaines de la tech et principalement sur l'IA. Le format court ne permet pas d'aller très loin dans la théorie mais permet de se tenir informée sur ces sujets<br><br>
+[Yosh](https://www.youtube.com/@yoshtm)  <div class="text">  Cette chaine à fait très peu de vidéos et elles présente toutes l'évolution de son IA qui joue à trackmania. C'est intéressant de voir l'évolution et de comprendre l'évolution des inputs et des comportement émergent et des limites. </div> <br><br>
 
-[AI WhareHouse](https://www.youtube.com/@aiwarehouse) Cette chaîne présente des vidéos d'apprentissage par renforcement d'agents sur Unity qui apprennent à se déplacer et à bouger des articulations et permet comme la chaine de yosh de comprendre comment fabriquer une IA qui répond au problème et d'adapter les récompenses pour accomplir les tâches demandés.<br>
+[Two minutes papers](https://www.youtube.com/@TwoMinutePapers)  <div class="text">  Cette chaîne présente les avancées sur les domaines de la tech et principalement sur l'IA. Le format court ne permet pas d'aller très loin dans la théorie mais permet de se tenir informée sur ces sujets </div> <br><br>
+
+[AI WhareHouse](https://www.youtube.com/@aiwarehouse)  <div class="text">  Cette chaîne présente des vidéos d'apprentissage par renforcement d'agents sur Unity qui apprennent à se déplacer et à bouger des articulations et permet comme la chaine de yosh de comprendre comment fabriquer une IA qui répond au problème et d'adapter les récompenses pour accomplir les tâches demandés. </div> <br> 
 
 </div>
