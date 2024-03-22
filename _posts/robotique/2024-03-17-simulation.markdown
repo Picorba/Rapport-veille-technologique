@@ -50,9 +50,10 @@ En Robotique la simulation présentes de nombreux avantages qui sont :
 
 - Les simulations permettent une analyse approfondie du comportement du robot, notamment en enregistrant des données détaillées sur ses mouvements, ses interactions et ses performances.
 - Ces données peuvent être utilisées pour optimiser les algorithmes de contrôle et les stratégies de planification.
-</div>
+
 
 De plus, il y a une expansion des "Digitals twin" qui va survenir dans le futur dans toute l'industrie. Les digitals twins sont des jumeaux numériques des systèmes qui permettront aux industriels de pouvoir mieux comprendre et optimiser leur systèmes, pouvoir développer des fonctionnalités et identifier leur interêt plus facilement et aussi réduire le temps de panne des systèmes. Le principal frein à cette technologie est l'essor des attaques informatiques récents. <br>
+</div>
 <img src="https://picorba.github.io/Rapport-veille-technologique/assets/images/digital_twin.png" alt="Evolution du marché des digitals twins"><br>
 Source : https://www.ptc.com/fr/industry-insights/digital-twin
 <br>

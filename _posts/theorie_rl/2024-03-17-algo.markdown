@@ -8,5 +8,6 @@ categories: deep_rl
 
 <img src="https://picorba.github.io/Rapport-veille-technologique/assets/images/table.png" alt="Q Table/Deep Q Table"><br>
 
-
+<div class="texte">
 https://www.v7labs.com/blog/deep-reinforcement-learning-guide
+</div>
