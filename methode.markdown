@@ -35,5 +35,3 @@ En dehors de research gate mentionné, j'ai utilisé Youtube qui grâce à son f
 [Two minutes papers](https://www.youtube.com/@TwoMinutePapers)  <div class="texte">  Cette chaîne présente les avancées sur les domaines de la tech et principalement sur l'IA. Le format court ne permet pas d'aller très loin dans la théorie mais permet de se tenir informée sur ces sujets </div> <br><br>
 
 [AI WhareHouse](https://www.youtube.com/@aiwarehouse)  <div class="texte">  Cette chaîne présente des vidéos d'apprentissage par renforcement d'agents sur Unity qui apprennent à se déplacer et à bouger des articulations et permet comme la chaine de yosh de comprendre comment fabriquer une IA qui répond au problème et d'adapter les récompenses pour accomplir les tâches demandés. </div> <br> 
-
-</div>
