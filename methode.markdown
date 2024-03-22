@@ -23,19 +23,19 @@ J'ai utilisé Zotero afin de sauvegarder les articles d'intérets et pour les ra
 En dehors de research gate mentionné, j'ai utilisé Youtube qui grâce à son format de vidéo m'a permit de m'informer sur le sujet lors de moment d'attente de la vie quotidienne (comme attendre le bus etc...), Reddit était intéréssant car il propose des subreddits assez précis mais il faut prendre les informations avec des pincettes car beaucoup de personnes sont aussi en recherche d'informations sur ces subreddits. Git hub m'a permit aussi de voir ce qu'il se faisait actuellement dans la communauté open-source, assez présente dans la robotique notamment grâce à ROS et Gazebo qui sont open source.
 </div>
 
-<br>
 
 ## Lien vers des chaines youtubes intéréssante 
+<br>
 
 <div class="texte">
-(Les noms de chaines sont cliquables)<br>
-[Steve Brunton](https://www.youtube.com/@Eigensteve)   Cette chaîne est tenu par un professeur/chercheur qui parle principalement de Data-science et de mécanique des fluides. Il a peu fait de vidéos sur le DRL mais elle sont très intéréssantes et il a le mérite de très bien expliqué sur ses sujets.
-<br><br>
-
-[Yosh](https://www.youtube.com/@yoshtm)   Cette chaine à fait très peu de vidéos et elles présente toutes l'évolution de son IA qui joue à trackmania. C'est intéressant de voir l'évolution et de comprendre l'évolution des inputs et des comportement émergent et des limites.<br><br>
 
 
-[Two minutes papers](https://www.youtube.com/@TwoMinutePapers)   Cette chaîne présente les avancées sur les domaines de la tech et principalement sur l'IA. Le format court ne permet pas d'aller très loin dans la théorie mais permet de se tenir informée sur ces sujets <br><br>
+Steve Brunton = <a href=" https://www.youtube.com/@Eigensteve"> https://www.youtube.com/@Eigensteve</a>  Cette chaîne est tenu par un professeur/chercheur qui parle principalement de Data-science et de mécanique des fluides. Il a peu fait de vidéos sur le DRL mais elle sont très intéréssantes et il a le mérite de très bien expliqué sur ses sujets.<br>
 
+Yosh: https://www.youtube.com/@yoshtm Cette chaine à fait très peu de vidéos et elles présente toutes l'évolution de son IA qui joue à trackmania. C'est intéressant de voir l'évolution et de comprendre l'évolution des inputs et des comportement émergent et des limites. <br>
 
-[AI WhareHouse](https://www.youtube.com/@aiwarehouse)    Cette chaîne présente des vidéos d'apprentissage par renforcement d'agents sur Unity qui apprennent à se déplacer et à bouger des articulations et permet comme la chaine de yosh de comprendre comment fabriquer une IA qui répond au problème et d'adapter les récompenses pour accomplir les tâches demandés. <br> 
+Two minutes papers: https://www.youtube.com/@TwoMinutePapers Cette chaîne présente les avancées sur les domaines de la tech et principalement sur l'IA. Le format court ne permet pas d'aller très loin dans la théorie mais permet de se tenir informée sur ces sujets<br>
+
+AI WhareHouse : https://www.youtube.com/@aiwarehouse Cette chaîne présente des vidéos d'apprentissage par renforcement d'agents sur Unity qui apprennent à se déplacer et à bouger des articulations et permet comme la chaine de yosh de comprendre comment fabriquer une IA qui répond au problème et d'adapter les récompenses pour accomplir les tâches demandés.<br>
+
+</div>
