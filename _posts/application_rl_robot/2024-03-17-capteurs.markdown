@@ -17,10 +17,12 @@ Il est assez contre intiutif d'imaginé du DRL dans un capteur. Selon le larouss
 
 Dans le premier la méthode est la suivante : une bounding box est présente sur une image, l'image est croppé autour de la bounding box et ensuite un CNN détecte les features à l'intérieur de celle ci et en se basant sur ça l'agent détermine si il doit déplacer ou agrandir la bounding box. Le processus est repété jusqu'à arrêt.
 <br>
-Dans le deuxième cas l'agent recoit en entrée la frame d'avant avec la bouding box et la frame d'après sans. Le CNN détecte les features et l'agent décidde d'où déplacer le bounding box.
+Dans le deuxième cas l'agent recoit en entrée la frame d'avant avec la bouding box et la frame d'après sans. Le CNN détecte les features et l'agent décidde d'où déplacer le bounding box. L'article présente plusieurs algorithmes d'apprentissage ultilisant ces méthodes dont certaines sont du RL et d'autres du DRL.
 
-
+<br>
 Source :[ Deep Reinforcement Learning in Computer Vision:
 A Comprehensive Survey Ngan Le Vidhiwar Singh Rathour Kashu Yamazaki
 Khoa Luu Marios Savvides August 27, 2021 ](https://arxiv.org/abs/2108.11510)
 </div>
+
+[DRL pour la planifation de trajectoire](/Rapport-veille-technologique/applicationss/2024/03/17/trajectoire.html)

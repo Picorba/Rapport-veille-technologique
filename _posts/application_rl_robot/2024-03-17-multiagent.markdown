@@ -23,3 +23,5 @@ Xudong Zhua,, Fan Zhanga, Hui Lib  November 1-4, 2021
 Marco Dorigo, Guy Theraulaz, Vito Trianni. Swarm Robotics: Past, Present, and Future [Point of View]. Proceedings of the IEEE, 2021, 109 (7), pp.1152-1165. 10.1109/JPROC.2021.3072740. hal-03362874
 <br>
 </div>
+
+[Utilisation des LLMs en robotique](/Rapport-veille-technologique/applicationss/2024/03/17/llm.html)

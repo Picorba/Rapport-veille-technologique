@@ -19,3 +19,5 @@ https://arxiv.org/pdf/2302.09120.pdf <br>
 https://arxiv.org/ftp/arxiv/papers/2307/2307.07296.pdf <br>
 https://www.reddit.com/r/reinforcementlearning/comments/inspcf/learning_about_slam_and_reinforcement_learning/
 </div>
+
+[DRL pour le controle des actionneurs](/Rapport-veille-technologique/applicationss/2024/03/17/actionneurs.html)

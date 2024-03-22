@@ -25,3 +25,5 @@ Autonomous Surface Vessel in Natural Waters Wei Wang1,2,,
  Xiaojing Cao3,, Alejandro Gonzalez-Garcia2,4, Lianhao Yin1, Niklas Hagemann2,
 Yuanyuan Qiao2,3, Carlo Ratti2, and Daniela Rus
 </div>
+
+[DRL pour les systèmes multi-agents](/Rapport-veille-technologique/applicationss/2024/03/17/multiagent.html)
