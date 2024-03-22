@@ -21,7 +21,7 @@ Source : https://paperswithcode.com/method/alphastar
 # ChatGpt et les LLMs
 
 <div class="texte">
-ChatGPT et les grands modèles de langage (Large Language Models - LLMs) sont des exemples de DRL appliqué au traitement du langage naturel. Ces modèles sont entraînés sur de vastes ensembles de données textuelles afin d'apprendre à générer et à comprendre le langage humain. Ils sont utilisés dans une variété d'applications, telles que la génération automatique de texte, la traduction automatique, l'analyse de sentiment, et bien plus encore.
+ChatGPT et les tous les LLMs sont des exemples de DRL appliqué au traitement du langage naturel. Ces modèles sont entraînés sur de vastes ensembles de données textuelles afin d'apprendre à générer et à comprendre le langage humain. Le DRL intervient aussi au sein d'un seul chat car ChatGpt apprend en fonction du retour de l'homme. Cependant il y a eu majoritairement de l'apprentissage supervisé pour ce type d'intelligence.
 
 
 Source : https://botpress.com/fr/blog/comment-fonctionne-le-chatgpt
