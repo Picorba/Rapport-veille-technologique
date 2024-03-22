@@ -10,6 +10,6 @@ Ces articles présentes de manière succintes les bases du reinforcement learnin
 
 [Introduction au RL/DRL](/Rapport-veille-technologique/deep_rl/2024/03/16/Introduction_RL.html)
 
-[Algorithmes](https://picorba.github.io/Rapport-veille-technologique/deep_rl/2024/03/17/algo.html)
+[Exemples d'algorithmes : Q Learning Deep Q Learning](https://picorba.github.io/Rapport-veille-technologique/deep_rl/2024/03/17/algo.html)
 
 [Exemples d'applications du Deep Reinforcement Learning](https://picorba.github.io/Rapport-veille-technologique/deep_rl/2024/03/17/exemple_rl.html)
