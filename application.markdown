@@ -11,7 +11,9 @@ En reprenant la décomposition d'un système robotique : <br> <br>
 <div class="texte">
 Source : https://www.linkedin.com/pulse/robotics-traditional-path-new-approaches-v%C3%ADctor-mayoral-vilches/ <br> <br>
 
-On rend compte que il y a beaucoup de partie dans lesquelles on peut utilisé de l'IA et plus particulièrement du RL/DRL. C'est pour cela que je vais d'abord présenter chaque sous partie dans lesquelles ont peut appliquer le DRL (certaines plus pertinentes que d'autres) et ensuite je présenterai deux exemples de problèmatiques actuelles qui sont le controle de système multi-agents ainsi que l'utilisation des LLMs dans le milieu de la robotique.<br> <br>
+Voici le texte corrigé :
+
+On se rend compte qu'il y a de nombreuses parties dans lesquelles on peut utiliser l'IA, et plus particulièrement le RL/DRL. C'est pourquoi je vais d'abord présenter chaque sous-partie dans laquelle on peut appliquer le DRL (certaines étant plus pertinentes que d'autres), puis je présenterai deux exemples de problématiques actuelles : le contrôle de systèmes multi-agents et l'utilisation des LLMs dans le domaine de la robotique.<br> <br>
 
 </div>
 
