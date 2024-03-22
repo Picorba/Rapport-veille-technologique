@@ -24,6 +24,7 @@ En dehors de research gate mentionné, j'ai utilisé Youtube qui grâce à son f
 </div>
 
 <br>
+
 ## Lien vers des chaines youtubes intéréssante 
 <br>
 
