@@ -14,13 +14,10 @@ Sans être sarcastique, il est indéniable que ces technologies peuvent être ap
 
  <img src="https://picorba.github.io/Rapport-veille-technologique/assets/images/voxposer.png" alt="Schéma de fonctionnement de Voxposer"><br>
 
+<br>
+ La tâche demandé à ChatGPT ici est assez facile mais le fait d'utiliser un LLM permet de tirer de son intelligence et logique de raisonnement. Un des comportements émergent observé à la fin était qu'il était capable de faire preuve d'un peu de raisonnement comme comprendre le prompt "Met la table je suis gaucher" et ainsi d'inverser la fourchette et le couteau. <br>
 
-
-
-
-
-
-
+Si vous êtes interessé pour aller plus loin voici un [github](https://github.com/GT-RIPL/Awesome-LLM-Robotics) qui reprend plein de papiers de recherche sur les LLMs appliqués à la robotique.
 
 
 Sources : 

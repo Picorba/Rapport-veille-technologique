@@ -5,27 +5,16 @@ date:   2024-03-17 18:34:50 +0100
 categories: applicationss
 ---
 <link rel="stylesheet" href="https://picorba.github.io/Rapport-veille-technologique/assets/css/theme_dark.css">
+Nous avons vu jusqu'ici que des exemples d'agent seuls mais une des problèmatiques actuelles est de faire fonctionner les robots en essaim afin d'accomplir des tâches plus complexes. Les enjeux de l'intelligence artifielle dans ce domaine est dans la manière de l'intégrer dans ces projets et comment voir son essaim de robots.
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+ <img src="https://picorba.github.io/Rapport-veille-technologique/assets/images/swarm.png" alt="Différence essaim/centralisé"><br>
 
-Jekyll requires blog post files to be named according to the following format:
+On peut voir sur le schéma précédent les deux visions principales qui s'oppose dans ce domaine. Une est centralisé où chaque robot communique avec un cerveau mère qui prend les décisions et supervise les opératiosn. L'approche en essaim est plus récente et permet que chaque robot apprenne de son coté et partage ensuite ses connaissances avec les autres. On peut voir dans la vidéo ci dessous un essaim de drones qui explorent une foret inconnue et est capable de manoeuvrer dans cette foret sans crash, et ils partagent l'information de ce qu'il voit ce qu'il permet que même si une caméra est obstrué d'un drone que celui ci ne se crash pas.
 
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+<video src="https://www.youtube.com/watch?v=P9ZbipO8vxM">Texte</video>
+Source : conférence d'alten en Informatique d'entreprises <br>
+ Swarm Deep Reinforcement Learning for Robotic Manipulation 
+Xudong Zhua,, Fan Zhanga, Hui Lib  November 1-4, 2021 
+<br>
+Marco Dorigo, Guy Theraulaz, Vito Trianni. Swarm Robotics: Past, Present, and Future [Point of View]. Proceedings of the IEEE, 2021, 109 (7), pp.1152-1165. 10.1109/JPROC.2021.3072740. hal-03362874
+<br>

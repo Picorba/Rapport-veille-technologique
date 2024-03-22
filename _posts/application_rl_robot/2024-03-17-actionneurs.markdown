@@ -6,26 +6,15 @@ categories: applicationss
 ---
 <link rel="stylesheet" href="https://picorba.github.io/Rapport-veille-technologique/assets/css/theme_dark.css">
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Dans cette partie nous allons voir comment une IA entrainée par DRL peut directement interagir avec les actionneurs pour controler un robot.Nous allons voir deux exemples un en simulation et un autre qui a pu être réellement déployer.
 
-Jekyll requires blog post files to be named according to the following format:
+# Entrainement d'une IA par DRL pour jouer à TrackMania
 
-`YEAR-MONTH-DAY-title.MARKUP`
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Source : [Yosh sur youtube](https://www.youtube.com/@yoshtm)
+# Controle d'un ASV simple 
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Source : Deep Reinforcement Learning Based Tracking Control of an
+Autonomous Surface Vessel in Natural Waters Wei Wang1,2,,
+ Xiaojing Cao3,, Alejandro Gonzalez-Garcia2,4, Lianhao Yin1, Niklas Hagemann2,
+Yuanyuan Qiao2,3, Carlo Ratti2, and Daniela Rus
