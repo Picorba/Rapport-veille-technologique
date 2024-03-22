@@ -7,7 +7,7 @@ permalink: /applications/
 <div class="texte">
 En reprenant la décomposition d'un système robotique : <br> <br>
 </div>
-<img src="https://picorba.github.io/Rapport-veille-technologique/assets/images/pipeline_robot.jpg" width="60% alt="Pipeline robot"><br>
+<img src="https://picorba.github.io/Rapport-veille-technologique/assets/images/pipeline_robot.jpg" width="60%" alt="Pipeline robot"><br>
 <div class="texte">
 Source : https://www.linkedin.com/pulse/robotics-traditional-path-new-approaches-v%C3%ADctor-mayoral-vilches/ <br> <br>
 
