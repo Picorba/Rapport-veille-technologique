@@ -17,7 +17,9 @@ Source : https://blog.3ds.com/fr/brands/delmia/quels-sont-les-avantages-de-la-si
 </div>
 
 <img src="https://picorba.github.io/Rapport-veille-technologique/assets/images/digital_twin.png" alt="Evolution du marché des digitals twins"><br>
+<div class="texte">
 Source : https://www.ptc.com/fr/industry-insights/digital-twin
+</div>
 <br>
 
 # Outils principaux : 
